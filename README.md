@@ -33,7 +33,11 @@ pip install fire==0.3.1 pytorch-ignite==0.3.0
 ```
 
 # Pretrained models
-Our pretrained models will be made available soon.
+Our pretrained models can be downloaded from here and should be placed inside the directory `resources/checkpoints`:
+
+[activitynet_checkpoint_25gmac.pth](https://github.com/Qualcomm-AI-research/FrameExit/releases/download/v1.0/activitynet_checkpoint_25gmac.pth)
+
+[minikinetics_checkpoint_19.7gmac.pth](https://github.com/Qualcomm-AI-research/FrameExit/releases/download/v1.0/minikinetics_checkpoint_19.7gmac.pth)
 
 # Evaluation
 To get help:
